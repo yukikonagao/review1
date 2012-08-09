@@ -1,0 +1,52 @@
+public class Person {
+	
+
+
+public static void main (String[]age) {
+	
+
+
+public static void 
+
+string uji = "氏";
+string mei = "名";
+string firstname = firstname;
+string lastname = lastname;
+
+
+
+public static getfirstname(first a){
+	
+
+
+}
+
+public static lastname(last b){
+	
+
+
+}
+
+public static showname(show c){
+	
+
+
+}
+
+
+
+
+public static void showname {
+	System.out.print(uji + ":" + lastname);
+	System.out.print(mei + ":" + firstname);
+
+}
+
+
+
+
+
+
+}
+
+}
